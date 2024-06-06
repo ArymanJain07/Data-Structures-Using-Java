@@ -42,8 +42,6 @@ Welcome to the *Data Structures in Java* repository! This repository serves as a
    - Introduction to trees.
    - Binary trees.
    - Binary search trees (BST).
-   - AVL trees.
-   - Red-Black trees.
    - Tree traversal techniques (in-order, pre-order, post-order, level-order).
    - Practical implementations and use cases.
 
